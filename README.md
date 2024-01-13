@@ -13,3 +13,5 @@ Alright, so what's the deal with this site? Well, it's a bit of a side project, 
 ## A Word of Caution
 
 Before you dive too deep, let's set the record straight. This isn't some authoritative source on space exploration or anything like that. It's a passion project, driven by curiosity more than anything else. While I've done my best to present accurate information, remember that it's all done in the spirit of exploration and fun. So, take a look around, enjoy the visuals, and maybe you'll find something that resonates with your own fascination for the cosmos (although, this one is centered around historical data about space organisations more then anything else)
+
+Anyways, You can quickly access the analysis and graphs here : [https://redeemedspoon.github.io/Space-Exploration/](https://redeemedspoon.github.io/Space-Exploration/)
